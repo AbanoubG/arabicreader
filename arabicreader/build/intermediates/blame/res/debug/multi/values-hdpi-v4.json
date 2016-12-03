@@ -1,0 +1,422 @@
+[
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 41,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 45,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 45,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 49,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 49,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 45,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 45,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 48,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 48,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 46,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 46,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 41,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 45,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 45,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 49,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 49,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 45,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 45,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 48,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 48,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 46,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 46,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 41,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 45,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 45,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 49,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 49,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 45,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 45,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 48,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 48,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 46,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 46,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 12,
+                    "endColumn": 13,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

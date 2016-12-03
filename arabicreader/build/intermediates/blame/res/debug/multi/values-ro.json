@@ -1,0 +1,815 @@
+[
+    {
+        "outputFile": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-ro\\values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 120,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 120,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 103,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 103,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 112,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 112,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 87,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 87,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 111,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 111,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 120,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 120,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 111,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 111,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 112,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 112,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 99,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 99,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 113,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endColumn": 113,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 104,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 104,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 105,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 105,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 120,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 120,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 251,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ro\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 255,
+                        "endOffset": 421
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-ro\\values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 120,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 120,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 103,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 103,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 112,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 112,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 87,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 87,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 111,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 111,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 120,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 120,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 111,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 111,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 112,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 112,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 99,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 99,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 113,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endColumn": 113,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 104,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 104,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 105,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 105,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 120,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 120,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 251,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ro\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 255,
+                        "endOffset": 421
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-ro\\values-ro.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 120,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 120,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 103,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 103,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 112,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 112,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 87,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 87,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 111,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 111,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 120,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 120,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 111,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 111,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 112,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 112,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 99,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endColumn": 99,
+                        "endOffset": 1270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 113,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endColumn": 113,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 104,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 104,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 105,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 105,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 120,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ro\\values-ro.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 120,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 251,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ro\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 255,
+                        "endOffset": 421
+                    }
+                }
+            }
+        ]
+    }
+]

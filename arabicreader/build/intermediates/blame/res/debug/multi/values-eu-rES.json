@@ -1,0 +1,815 @@
+[
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-eu-rES\\values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 108,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 97,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 97,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 109,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 109,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 85,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 105,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 105,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 123,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 123,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 108,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 108,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 109,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 109,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 98,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 98,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 108,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 108,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 112,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 112,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 110,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 110,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 136,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 136,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 259,
+                    "endOffset": 1781
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-eu-rES\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 263,
+                        "endOffset": 429
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-eu-rES\\values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 108,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 97,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 97,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 109,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 109,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 85,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 105,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 105,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 123,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 123,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 108,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 108,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 109,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 109,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 98,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 98,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 108,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 108,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 112,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 112,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 110,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 110,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 136,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 136,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 259,
+                    "endOffset": 1781
+                },
+                "from": {
+                    "file": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-eu-rES\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 263,
+                        "endOffset": 429
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\values-eu-rES\\values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 108,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 97,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 97,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 109,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 109,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 85,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 105,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 105,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 123,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 123,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 108,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 108,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endColumn": 109,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 109,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 98,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 98,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 108,
+                    "endOffset": 1160
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 108,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1165,
+                    "endColumn": 112,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 112,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 110,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 110,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 136,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-eu-rES\\values-eu-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 136,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 259,
+                    "endOffset": 1781
+                },
+                "from": {
+                    "file": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-eu-rES\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 263,
+                        "endOffset": 429
+                    }
+                }
+            }
+        ]
+    }
+]

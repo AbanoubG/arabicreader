@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '21.1.2'
+
+    defaultConfig {
+        applicationId "org.copticchurchlibrary.arabicreader"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 20160905
+        versionName "1.0.2"
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':materialDialog')
+    compile project(':nineOldLibrary')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/ypylibs.jar')
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.copticchurchlibrary.arabicreader"
+    android:versionCode="20160905"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="org.copticchurchlibrary.arabicreader.YPYApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="org.copticchurchlibrary.arabicreader.SplashActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppBaseTheme1" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.copticchurchlibrary.arabicreader.MainActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppBaseTheme1" >
+        </activity>
+        <activity
+            android:name="org.copticchurchlibrary.arabicreader.EqualizerActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="org.copticchurchlibrary.arabicreader.ShowUrlActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="org.copticchurchlibrary.arabicreader.playerservice.MusicService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="org.copticchurchlibrary.arabicreader.action.TOGGLE_PLAYBACK" />
+                <action android:name="org.copticchurchlibrary.arabicreader.PLAY" />
+                <action android:name="org.copticchurchlibrary.arabicreader.PAUSE" />
+                <action android:name="org.copticchurchlibrary.arabicreader.NEXT" />
+                <action android:name="org.copticchurchlibrary.arabicreader.PREVIOUS" />
+                <action android:name="org.copticchurchlibrary.arabicreader.STOP" />
+                <action android:name="org.copticchurchlibrary.arabicreader.ACTION_SEEK" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="org.copticchurchlibrary.arabicreader.playerservice.MusicIntentReceiver" >
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.copticchurchlibrary.arabicreader.action.TOGGLE_PLAYBACK" />
+                <action android:name="org.copticchurchlibrary.arabicreader.action.NEXT" />
+                <action android:name="org.copticchurchlibrary.arabicreader.action.PREVIOUS" />
+                <action android:name="org.copticchurchlibrary.arabicreader.action.STOP" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

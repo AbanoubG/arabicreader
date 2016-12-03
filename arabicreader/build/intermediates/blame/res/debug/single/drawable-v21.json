@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\AndroidMyMusicPlayer\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\AndroidMyMusicPlayer\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\AndroidMyMusicPlayer\\arabicreader\\build\\intermediates\\exploded-aar\\AndroidMyMusicPlayer\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\penan\\Desktop\\FullSource\\SourceCode\\AndroidStudio\\ArabicReader\\arabicreader\\build\\intermediates\\exploded-aar\\ArabicReader\\materialDialog\\unspecified\\res\\drawable-v21\\md_btn_shape.xml"
+    }
+]
